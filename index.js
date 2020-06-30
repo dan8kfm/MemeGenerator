@@ -4,3 +4,6 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Meme from './Meme';
+
+reactDOM.render(<Meme />, document.getElementById('root'));
